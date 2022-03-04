@@ -1,0 +1,52 @@
+/* font-family: 'Devonshire', cursive;
+
+font-family: 'Oleo Script', cursive;
+
+font-family: 'Paprika', cursive;
+
+font-family: 'Yatra One', cursive; */
+
+
+body{
+    height:97vh;
+    background-color:#BABFB9;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+
+main{
+    
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    flex-wrap:wrap;
+    text-align:center;
+}
+
+h1,
+h2,
+p{
+    color: #272224;
+    width:100%;
+    font-family: 'Paprika', cursive;
+
+}
+
+h1{
+    font-size:4rem;
+    color:#278373
+}
+
+.icons{
+    font-size:2rem;
+    color:#278373;
+    width:25%;
+    display:flex;
+    justify-content:space-around;
+    margin-top:5%;
+}
+
+a{
+    color:#278373;
+}
